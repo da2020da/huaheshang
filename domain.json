@@ -2,12 +2,12 @@
 	"code": 200,
 	"data": [{
 			"id": 1,
-			"url": "https:\/\/www.huaheshang.app",
+			"url": "http:\/\/www.huaheshang.app",
 			"state": 1
 		},
 		{
 			"id": 2,
-			"url": "https:\/\/www.huaheshang1.app",
+			"url": "http:\/\/www.huaheshang1.app",
 			"state": 1
 		},
 		{
