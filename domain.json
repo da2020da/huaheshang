@@ -1,5 +1,5 @@
 {"code":200,"data":[
-	{"id":1,"url":"https:\/\/www.hhs1.app","state":1},
-	{"id":2,"url":"https:\/\/www.hhs2.app","state":1}
+	{"id":1,"url":"http:\/\/www.hhs1.app","state":1},
+	{"id":2,"url":"http:\/\/www.hhs2.app","state":1}
 ]
 }
